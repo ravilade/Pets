@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="login_welcome_msg">Bienvenido</string>
+    <string name="login_button_create_account">Create una cuenta</string>
+    <string name="login_button_login_facebook">Conéctate con facebook</string>
+    <string name="login_message_have_account">Ya tienes una cuenta?</string>
+    <string name="login_message_login">Ingresa aquí</string>
+
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="signup_hint_name">Nombre</string>
+    <string name="signup_hint_lastname">Apellido</string>
+    <string name="signup_hint_email">Correo electrónico</string>
+    <string name="signup_hint_password">Contraseña</string>
+    <string name="signup_button_signup">Registrarme</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="facebook_app_id">1728413190784610</string>
+    <string name="fb_login_protocol_scheme">fb1728413190784610</string>
+
+
+</resources>

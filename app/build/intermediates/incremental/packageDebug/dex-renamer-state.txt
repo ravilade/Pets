@@ -1,0 +1,7 @@
+#Fri Jun 09 20:56:16 PET 2017
+base.0=/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e00863e197a2fd4d7274f1f27205c8cd75aaa0e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_88261d8a36951df0bd2572efba27099be04fcfac/classes.dex
+base.1=/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_88261d8a36951df0bd2572efba27099be04fcfac
+file.0=/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e00863e197a2fd4d7274f1f27205c8cd75aaa0e/classes.dex

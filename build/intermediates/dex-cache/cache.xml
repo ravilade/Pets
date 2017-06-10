@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_5499d1c498644ecf318bbff4c6d57ad4e2e332a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22b1be562f094bebf5cd7a4653b03e9358242e04">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e00863e197a2fd4d7274f1f27205c8cd75aaa0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_a6a97c982023a20ea7a2ae0981ec33b3ad4b7e04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.23.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.23.0_102293702f2c3331a59a5b7f4b2df310731e6cf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_9fa0458321268e0ac4a2912b3e400d863bf6f5cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_55b3345cd2da2ab46ea13c0ba4904c3d7efad691/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.3.1_3d03cf272f1f076b203a2092b4e7ebbc26481cd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_635e8cb09f71f47362d236800ccebda3bd9a8985/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_a08efc46d8cc8a9f7c868f567b23e3162503ae3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_57fb82a624eb0876b4771177698f649bfeef8bea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_6f8314c141ffdddeb0a395b4d47c2b1ed632d4ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_8cc3f02f5900e16778ae590032cd36ba4c8efd81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.3.1_bc6fd26335437c658dd371ae0d4c73bfd29f065a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_8b4a80fbf4b36e7ee203ab2115f1b2c62d1a2ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b6357212f46a6884ec90c51e5540bc29a236220">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_88261d8a36951df0bd2572efba27099be04fcfac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_7c3abfa4d29d40d17ae1641681ad1a2343d91262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_63449ad204b573d6e95c4dd356e19fe0f9dc2874/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_7b558f0422294da5fdbfc32cd5af9837a29cf46e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_3a61383436b6677861688150271cdfb237e81400/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/ricardo/AndroidStudioProjects/Pets/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_ffe3d763eeea9082dc18138d20ac766f53aaa9ba/classes.dex" />
+    </item>
+
+</items>
